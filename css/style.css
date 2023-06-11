@@ -1,0 +1,20 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: lightskyblue;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0px;
+	height: 80px;
+	font-size: 20px;
+	color: white;
+	background-color: red;
+
+}
+
+.red{
+	background-color: limegreen;
+}
+
+.orange{
+	background-color: orange;
+}
